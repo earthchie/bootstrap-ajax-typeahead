@@ -332,7 +332,7 @@ Ajax Options
             null
         </td>
         <td>
-
+            &nbsp;
         </td>
     </tr>
     <tr>
@@ -389,7 +389,7 @@ Ajax Options
             null
         </td>
         <td>
-
+            &nbsp;
         </td>
     </tr>
     <tr>
